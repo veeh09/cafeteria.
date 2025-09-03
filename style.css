@@ -7,7 +7,7 @@
 body {
   font-family: 'Segoe UI', sans-serif;
   line-height: 1.6;
-  color: #333;
+  color: #ffd7ff;
   background-color: #fff8f0;
 }
 
@@ -18,7 +18,7 @@ body {
 }
 
 header {
-  background: #4e342e;
+  background: #ffd7ff;
   color: white;
   padding: 10px 0;
 }
@@ -84,7 +84,7 @@ nav a {
 
 .cardapio {
   padding: 50px 0;
-  background-color: #fbe9e7;
+  background-color: #ede0fc;
 }
 
 .cardapio .itens {
@@ -100,7 +100,7 @@ nav a {
   border-radius: 10px;
   text-align: center;
   width: 200px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  box-shadow: 0 0 10px rgb(237, 221, 255);
 }
 
 .item img {
@@ -111,7 +111,7 @@ nav a {
 }
 
 footer {
-  background: #3e2723;
+  background: #ffd7ff;
   color: white;
   text-align: center;
   padding: 20px 0;
